@@ -1,5 +1,5 @@
 # Python
-BSE publishes a "Bhavcopy" file every day here: http://www.bseindia.com/markets/equity/EQReports/BhavCopyDebt.aspx?expandable=3
+BSE publishes a "Bhavcopy" file every day.
 
 Python script that:
 - Downloads the Equity bhavcopy zip from the above page
